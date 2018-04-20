@@ -370,7 +370,7 @@ export default {
         {},
         this.goods_type[index_one].goods_list[index_two]
       );
-      // console.log("000000000000");
+      console.log("000000000000");
       // console.log( this.goods_type[index_one].goods_list[index_two]);
       // console.log(deepCopyObj);
       if (deepCopyObj.count >= 99) {
